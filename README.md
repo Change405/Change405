@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Change405! I'm also known as Matt.
+- 👋 Hi, I’m @Change405, also known as Matt.
 - 👀 I’m interested in big data, machine learning, and cloud computing.
 - 🌱 I’m currently learning how to use SQL, properly store data, and work with data pipelines. I hope that in future I can take this knowledge and use it to experiment and with machine learning!
 
